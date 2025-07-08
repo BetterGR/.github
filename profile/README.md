@@ -28,7 +28,7 @@ Students:
 Supervisor: [@vMaroon](https://github.com/vMaroon)
 
 ---
-- For BetterGR users, please go to [Users Documentation](user_doc.md).
-- For BetterGR developers and contributors, please go to [Developers Documentation](developer_doc.md).
+- For BetterGR users, please go to [Users Documentation](https://github.com/BetterGR/setup/blob/main/docs/user_doc.md).
+- For BetterGR developers and contributors, please go to [Developers Documentation](https://github.com/BetterGR/setup/blob/main/docs/developer_doc.md).
 
   
