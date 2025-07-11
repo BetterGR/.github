@@ -18,7 +18,6 @@ BetterGR is a comprehensive Learning Management System (LMS) designed specifical
 
 ## Developers
 
-Students:
 - [@diar2705](https://github.com/diar2705)
 - [@HibaMallak](https://github.com/HibaMallak)
 - [@sabryassaf](https://github.com/sabryassaf)
